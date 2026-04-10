@@ -1,104 +1,66 @@
-<h1 align="center">Hi 👋, I'm Mortada Abdul Wahhab</h1>
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Agent+Developer;Data+Analyst;Machine+Learning+Enthusiast;Automation+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+AI+%26+Machine+Learning;Building+AI+Agents;Exploring+Automation+%26+Data" />
 </p>
 
 ---
 
-## 🚀 About Me
-💡 Data-driven thinker passionate about **AI, Automation & Data Analysis**  
-🤖 Building intelligent systems using **AI Agents & LLMs**  
-📊 Experienced in organizing and analyzing data using **Excel & Python**  
-🎯 Currently advancing in **Machine Learning & Advanced Python**
+## 🧠 About Me
+
+- 💡 Interested in **AI, Machine Learning, and Automation**
+- 🤖 Currently building simple **AI Agents & Telegram Bots**
+- 📊 Working with **data, Excel, and Python**
+- 🚀 Always learning and improving step by step
 
 ---
 
-## 🧠 Tech Stack
+## ⚙️ Tech & Tools
 
-### 💻 Programming & Data
 <p>
 <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
-### 🤖 AI & Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-- AI Agents  
-- Large Language Models (LLMs)  
-- Machine Learning  
+- Machine Learning (basics)  
+- AI Agents & LLMs  
+- Data Analysis (Excel + Python)  
+- Automation tools  
 
 ---
 
-### 🛠 Tools & Software
-<p>
-<img src="https://skillicons.dev/icons?i=photoshop" />
-</p>
+## 🎨 Creative Side
 
-- Microsoft Excel  
-- Canva  
 - Moho Animation  
+- Photoshop  
+- Canva  
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 Improving AI Telegram Bot  
+- 📚 Learning more about Machine Learning  
+- 🧠 Exploring how AI can automate real tasks  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=mustafaaliraqii&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaaliraqii&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🌐 Connect With Me
 
-### 🤖 AI Telegram Bot (AI Agent)
-- Handles **text & voice messages automatically**
-- Uses **AI + automation workflows**
-- Built to simulate real customer interaction
-
----
-
-## 💼 Experience
-
-**Data Entry Clerk – Refrigeration Maintenance Company**
-- Organized and managed maintenance & customer data  
-- Improved data accuracy and structure  
-- Supported technicians with structured digital systems  
+<p>
+<a href="https://www.linkedin.com/in/mustafa-a-abdallah/" target="_blank">LinkedIn</a>  
+</p>
 
 ---
 
-## 🎓 Education
-High School Graduate – Scientific Branch  
-📊 GPA: 88.14  
+## ⚡ Small Note
 
----
-
-## 📚 Courses
-- Python Programming – Ibrahim Adel (OctuCode)  
-- Machine Learning – Andrew Ng (Coursera)  
-- Excel for Data Analysis – Edraak  
-
----
-
-## 🏆 Certificates
-- Machine Learning Certificate – Coursera  
-
----
-
-## 📫 Contact Me
-
-📧 albmustafa35@gmail.com  
-📱 07722796282  
-
----
-
-## 🔥 Profile Views
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
----
-
-## ⚡ Fun Fact
-I build AI systems that don't just respond… they **think and automate work** 🤖🔥
+Still learning... but building real things along the way 🚀
